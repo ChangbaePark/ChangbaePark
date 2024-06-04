@@ -6,7 +6,8 @@
 
 ## Introduction
 <p>
-  안녕하세요. 현재 우송대학교에 재학중인 IT융합학부 스마트IT·보안전공 4학년 박창배입니다.<br><br>
+  안녕하세요. 현재 우송대학교에 재학중인 IT융합학부 스마트IT·보안전공 4학년 박창배입니다.<br>
+  현재 AI를 공부중이며 AI모델을 학습과 관련하여 Python 및 안드로이드 스튜디오와 관련하여 Java에 대해 공부중입니다!<br>
   <h3>📖 Currently Studying<h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>
