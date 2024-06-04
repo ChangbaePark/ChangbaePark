@@ -7,7 +7,7 @@
 ## Introduction
 <p>
   안녕하세요. 현재 우송대학교 IT융합학부 스마트IT·보안전공 4학년 박창배입니다.<br>
-  현재 Python과 Java를 공부하고있습니다.
+  현재 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>과 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white"/>를 공부하고있습니다.
 </p>
 
     
@@ -15,11 +15,11 @@
 <div style="display:flex; flex-direction:row;">
   <h3> Language</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=C&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   </p>
   <h3> Backend</h3>
   <p>
@@ -29,7 +29,7 @@
   <h3>🎥 Frontend</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
   </p>
  <h3>🗄️ Database</h3>
