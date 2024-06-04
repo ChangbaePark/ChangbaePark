@@ -31,24 +31,20 @@
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
   </p>
-  <h3>🗄️ Database</h3>
+ <h3>🗄️ Database</h3>
   <p>
    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"> 
   </p>
   <h3> Development Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
     <img src="https://img.shields.io/badge/ANS-44A833?style=for-the-badge&logo=androidstudio&logoColor=white">
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
     <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white">
-  </p>
-  <h3>🛠️ Framework</h3>
-    <img src="https://img.shields.io/badge/Flask-3670A0?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-    <img src="https://img.shields.io/badge/MediaPipe-57DDFF?style=for-the-badge&logo=flase&logoColor=white">
-  <p>
   </p>
   <h3>📱 Contact</h3>
   <p>
