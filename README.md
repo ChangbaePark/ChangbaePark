@@ -7,8 +7,8 @@
 ## Introduction
 <p>
   안녕하세요. 현재 우송대학교 IT융합학부 스마트IT·보안전공 4학년 박창배입니다.
-  
 </p>
+
     
 ## 💻 Once I've used 💻
 <div style="display:flex; flex-direction:row;">
@@ -20,10 +20,10 @@
     <img src="https://img.shields.io/badge/csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp
   </p>
-  <h3>🛠 Backend</h3>
+  <h3> Backend</h3>
   <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   </p>
   <h3>🎥 Frontend</h3>
   <p>
@@ -37,7 +37,7 @@
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"> 
   </p>
-  <h3> Development Tools</h3>
+  <h3>🛠️ Development Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white">
   </p>
   <h3>📱 Contact</h3>
-  <p>
+  
     
   </p>
 </div><br>
