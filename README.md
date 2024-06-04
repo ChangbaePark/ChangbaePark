@@ -47,8 +47,10 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white">
   </p>
   <h3>📱 Contact</h3>
-  
-    
+  <p>
+    <a href="mailto:bluelemon59@naver.com">
+      <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=bluelemon59@naver.com"/>
+</a>
   </p>
 </div><br>
 
