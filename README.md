@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!%20I'm%20Changbae)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangbaePark&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
     
 ## 💻 Once I've used 💻
 <div style="display:flex; flex-direction:row;">
@@ -47,7 +47,7 @@
 ## State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangbaePark&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangbaePark&layout=compact) <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangbaePark&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+
 
 
 
