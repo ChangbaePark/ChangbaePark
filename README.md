@@ -18,7 +18,7 @@
     
 ## 💻 Once I've used 💻
 <div style="display:flex; flex-direction:row;">
-  <h3> Language</h3>
+  <h3>⌨️ Language</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   </p>
-  <h3> Backend</h3>
+  <h3>🗃️ Backend</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>
