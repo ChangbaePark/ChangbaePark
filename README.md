@@ -3,10 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!%20I'm%20Changbae)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangbaePark&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Introduction
+<p>
+  안녕하세요. 현재 우송대학교 IT융합학부 스마트IT·보안전공 4학년 박창배입니다.
+  
+</p>
     
 ## 💻 Once I've used 💻
 <div style="display:flex; flex-direction:row;">
-  <h3>🛠️ Language</h3>
+  <h3> Language</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/></a>&nbsp
@@ -37,6 +43,12 @@
     <img src="https://img.shields.io/badge/ANS-44A833?style=for-the-badge&logo=androidstudio&logoColor=white">
     <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white">
+  </p>
+  <h3>🛠️ Framework</h3>
+    <img src="https://img.shields.io/badge/Flask-3670A0?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+    <img src="https://img.shields.io/badge/MediaPipe-57DDFF?style=for-the-badge&logo=flase&logoColor=white">
+  <p>
   </p>
   <h3>📱 Contact</h3>
   <p>
