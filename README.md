@@ -6,7 +6,8 @@
 
 ## Introduction
 <p>
-  안녕하세요. 현재 우송대학교 IT융합학부 스마트IT·보안전공 4학년 박창배입니다.
+  안녕하세요. 현재 우송대학교 IT융합학부 스마트IT·보안전공 4학년 박창배입니다.<br>
+  현재 Python과 Java를 공부하고있습니다.
 </p>
 
     
@@ -62,6 +63,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ChangbaePark&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
-
-
-
+## 2024 채용연계형 기업멤버십 특별과정(AI)
+- [.h5 모델을 활용한 객체인식1](https://github.com/ChangbaePark/Practice_OpenCV1)
+- [.h5 모델을 활용한 객체인식2](https://github.com/ChangbaePark/Practice_OpenCV2)
+- [TM을 활용한 웹 앱생성](https://github.com/ChangbaePark/WebApp_TM001)
+- [안전모 탐지 모델](https://github.com/ChangbaePark/AI_Model/blob/main/hardHat%ED%83%90%EC%A7%80.ipynb)
+- [주차공간 탐지 모델](https://github.com/ChangbaePark/AI_Model/blob/main/pkLot%ED%83%90%EC%A7%80.ipynb)
+- [포트홀 탐지 모델](https://github.com/ChangbaePark/AI_Model/blob/main/potHole%ED%83%90%EC%A7%80.ipynb)
+- [산불 연기 탐지 모델](https://github.com/ChangbaePark/AI_Model/blob/main/wildFire_smoke%ED%83%90%EC%A7%80.ipynb)
