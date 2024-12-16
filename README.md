@@ -79,3 +79,4 @@
 - [산불 연기 탐지 모델](https://github.com/ChangbaePark/AI_Model/blob/main/wildFire_smoke%ED%83%90%EC%A7%80.ipynb)
 
 ## 수상경력
+- 
